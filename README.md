@@ -1,4 +1,5 @@
-# SDG-Alzheimers
+# Single-domain generalization for Alzheimer’s detection from 3D MRIs using pseudo-morphological augmentations & contrastive learning
+
 _Single-domain generalization for Alzheimer’s detection from 3D MRIs using pseudo-morphological augmentations & contrastive learning_
 
 ## Overview  
