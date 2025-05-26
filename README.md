@@ -1,7 +1,7 @@
 # Single-domain generalization for Alzheimer’s detection from 3D MRIs using pseudo-morphological augmentations & contrastive learning
 
 ## Overview  
-Deep learning–based Alzheimer’s detection from MRI scans has made remarkable progress thanks to convnets and , but models often fail to generalize across sites with different scanners, protocols, or patient populations. In this work we tackle **single-domain generalization** (SDG): training on one dataset and testing on unseen domains. By combining:
+Deep learning–based Alzheimer’s detection from MRI scans has made remarkable progress thanks to convnets and Vision-based transformers, but models often fail to generalize across sites with different scanners, protocols, or patient populations. In this work we tackle **single-domain generalization** (SDG): training on one dataset and testing on unseen domains. By combining:
 
 - **Pseudo-morphological modules** that learn anatomy-aware, class-specific 3D augmentations  
 - **Supervised contrastive learning** to pull apart different representations 
